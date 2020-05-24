@@ -1,1 +1,1 @@
-This is API testing framework, here all APIs automation performed using by Rest-assured library.
+This is API testing framework, here all APIs automated using by Rest-assured library.
