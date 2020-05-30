@@ -1,4 +1,4 @@
-# This is API Testing Framework
+# API Testing Framework
 
 ### Here all APIs automated using by Rest-Assured Library. Please go through below videos for detailed information and subscribe my channel for upcoming videos:-
 
